@@ -1,0 +1,4 @@
+org.roboticsapi.schunk.lwa.extension.LWA46Extension
+org.roboticsapi.schunk.lwa.collada.extension.LWA46ColladaExtension
+org.roboticsapi.schunk.lwa.runtime.extension.SoftRobotSchunkExtension
+org.roboticsapi.schunk.lwa.javarcc.extension.SchunkLWAJavaRCCExtension
