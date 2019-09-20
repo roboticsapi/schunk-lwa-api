@@ -1,0 +1,4 @@
+org.roboticsapi.device.schunk.lwa.extension.Lwa46Extension
+org.roboticsapi.device.schunk.lwa.runtime.extension.LwaRuntimeExtension
+org.roboticsapi.device.schunk.lwa.visualization.extension.LwaVisualizationExtension
+org.roboticsapi.device.schunk.lwa.javarcc.extension.LwaJavaRccExtension
